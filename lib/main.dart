@@ -185,19 +185,6 @@ centerTitle: true,
                   ),
                 ),
 
-
-
-               //  Padding(
-               //      padding: const EdgeInsets.all(0.0),
-               // child: TextField(
-               //   maxLines: 5,
-               //   decoration: InputDecoration(
-               //   border: OutlineInputBorder(),
-               //     labelText: "Summary",
-               //     hintText: "About Myself",
-               // ),
-               //  ),
-               //  ),
               ],
             ),
 
